@@ -1,1 +1,1 @@
-FROM jupyter/tensorflow-notebook:61b6109d781b
+FROM jupyter/tensorflow-notebook:python-3.8

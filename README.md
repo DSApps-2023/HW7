@@ -4,7 +4,7 @@
 
 ### Welcome to Assignment 7!
 
-For details on how to run the assignment (Submission mode) see [here](https://github.com/DSApps-2023/Class_Slides/blob/main/Apps_of_DS_HW.pdf) and in the assignment itslef ([hw7.ipynb](hw7.ipynb)).
+For details on how to run the assignment (Submission mode) see [here](https://github.com/DSApps-2023/Class_Slides/blob/main/Apps_of_DS_HW.pdf) and in the assignment itself ([hw7.ipynb](hw7.ipynb)).
 
 In general:
 
